@@ -211,7 +211,7 @@ Performance may vary depending on system specifications, lighting conditions, an
 - Enhanced CPU Optimization
 - Expanded Accessibility Features
 
-These enhancements are consistent with the future scope outlined in the project report. :contentReference[oaicite:3]{index=3}
+
 
 ---
 
