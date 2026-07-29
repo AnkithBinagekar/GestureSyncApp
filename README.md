@@ -218,7 +218,7 @@ Performance may vary depending on system specifications, lighting conditions, an
 ## Contributors
 
 - Junaid Al Amin
-- Kevin Saby Mundappallil
+- [@Kevin Saby Mundappallil] (https://github.com/KevinSaby)
 - Sarthak Sunil Patil
 
 ---
