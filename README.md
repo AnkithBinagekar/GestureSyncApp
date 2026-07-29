@@ -1,8 +1,5 @@
 # GestureSync
 
-<p align="center">
-  <img src="assets/splash_image.png" alt="GestureSync Banner" width="700"/>
-</p>
 
 <p align="center">
   <strong>A desktop application for hands-free computer interaction using Hand Gestures and Head Tracking.</strong>
