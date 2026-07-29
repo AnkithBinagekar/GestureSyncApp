@@ -188,7 +188,7 @@ GestureSync achieves:
 - Real-time gesture detection
 - Low-latency processing
 
-Performance may vary depending on system specifications, lighting conditions, and webcam quality. :contentReference[oaicite:2]{index=2}
+Performance may vary depending on system specifications, lighting conditions, and webcam quality. 
 
 ---
 
