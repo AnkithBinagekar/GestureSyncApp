@@ -219,7 +219,7 @@ Performance may vary depending on system specifications, lighting conditions, an
 
 - Junaid Al Amin
 - Kevin Saby Mundappallil ([@KevinSaby](https://github.com/KevinSaby))
-- Sarthak Sunil Patil
+- Sarthak Sunil Patil ([@SarthakPatil](https://github.com/sarthakpatil2403-cyber))
 
 ---
 
